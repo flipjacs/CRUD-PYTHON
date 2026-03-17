@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*
+
+!automacao_api/
+!automacao_api/**
+!testes/
+!testes/**
