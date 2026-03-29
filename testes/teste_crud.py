@@ -4,7 +4,7 @@ conexao = mysql.connector.connect(
     host='localhost',
     user='root',
     password='',
-    database='bdyoutube',
+    database='bdteste',
 )
 
 cursor = conexao.cursor() # Execução da conexao
